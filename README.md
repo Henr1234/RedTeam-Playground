@@ -13,7 +13,7 @@ This repository is strictly for educational and authorized testing purposes. Do 
 
 ## Quick start
 1. Clone the repo: `https://github.com/Henr1234/RedTeam-Playground.git`
-2. run - python3 <file_name>
+2. run - python3 app.py
 3. visit `http://localhost:5000` 
 
 ## Responsible usage
