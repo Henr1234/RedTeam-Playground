@@ -12,7 +12,7 @@ Follow these steps to set up RedTeam Playground locally:
    `pip install -r requirements.txt`
 
 4. Run the application:  
-   `python app.py`
+   `python3 REDTEAM.py`
 
 5. Open your browser and go to:  
    `http://localhost:5000`
